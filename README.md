@@ -9,3 +9,5 @@ Step-4: Open the terminal and navigate inside the directory ustraa and use comma
 Step-5: Use command 'npm start' in terminal and it will launch the app at http://localhost:3000/
 
 *Note - App is designed to be viewed on mobile devices only.
+
+Link to hosted application - https://cocky-montalcini-60d5b0.netlify.com/
