@@ -105,14 +105,14 @@
 }
 .buttonText{
     position: relative;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: auto;
     vertical-align: middle;
     letter-spacing: 0;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 14px;
     color: white;
+    text-align: center;
 }
 .quantity{
     font-size: 12px;

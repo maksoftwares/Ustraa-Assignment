@@ -31,7 +31,7 @@ class ProductImage extends Component {
 
         setTimeout(() => { axios.get(`https://backend.ustraa.com/rest/V1/api/catalog/v1.0.1?category_id=${categoryId}`)
         .then(response => this.setState({productsImage: response.data.products}))
-        .catch() }, 100);
+        .catch() }, 750);
     }
 
 
