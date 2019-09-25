@@ -1,0 +1,37 @@
+.category {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 65px;
+    width: 120px;
+    cursor: pointer;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    backface-visibility: hidden;
+    margin: 5px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.category-div{
+    width:100%;
+    background-color:transparent;
+    white-space:unset;
+    display:flex;
+    overflow-x:scroll;
+    /* margin-bottom:10px; */
+    /* backface-visibility:hidden; */
+    position: relative;
+}
+.slider{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.categoryName{
+    z-index: 1; 
+    float: left;  
+    text-align: center;
+    text-transform: uppercase;
+}
