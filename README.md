@@ -1,8 +1,8 @@
-Step-1 : Use command 'npx create-react-app ustraa' in terminal. After installation is done a folder named usraa will be created.
+Step-1 : Use command 'npx create-react-app ustraa' in terminal. After installation is done a folder named 'ustraa' will be created.
 
 Step-2: Download or Clone the files from github and extract them.
 
-Step-3: Go in the ustraa folder that you just created and copy the downloaded files and paste them there (while pasting it will ask you to skip or replace the files choose to replace the files.).
+Step-3: Go in the ustraa folder that you just created and copy the downloaded files and paste them in there (while pasting it will ask you to skip or replace the files choose to replace the files.).
 
 Step-4: Open the terminal and navigate inside the directory ustraa and use command 'npm i', it will install all the required dependencies (material-ui and axios are the only external dependencies used).
 
